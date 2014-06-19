@@ -21,7 +21,7 @@ There are 68 variables and 180 observations in the tidy data set (avg.merged.dat
 
 Description of all the variables in the tidy data set is given in the table below.
 
-1 | subject | int | Identifies the subject who performed the activity. Its range is  from 1 to 30.
+1 "|" subject "|" int "|" Identifies the subject who performed the activity. Its range is  from 1 to 30.
 
 
 ###References:
