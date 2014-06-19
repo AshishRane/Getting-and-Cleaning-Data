@@ -1,4 +1,4 @@
-##Code Book:
+##Code Book
 
 The "run_analysis.R" script generates a tidy data set (avg.merged.data.set.csv) using the data set provided (UCI HAR Dataset) in the Getting and Cleaning Data Course Project. 
 
@@ -21,7 +21,6 @@ There are 68 variables and 180 observations in the tidy data set (avg.merged.dat
 
 Description of all the variables in the tidy data set is given in the table below.
 
-1 "|" subject "|" int "|" Identifies the subject who performed the activity. Its range is  from 1 to 30.
 
 
 ###References:
