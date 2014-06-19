@@ -15,6 +15,7 @@ The names of the data files used to produce the tidy data set are mentioned belo
 	        * UCI HAR Dataset/train/X_train.txt
 	        * UCI HAR Dataset/train/y_train.txt
                 * UCI HAR Dataset/test/X_test.txt
+                
         
 Other files that were used for merging and cleaning the data set are as mentioned below:
 
@@ -24,7 +25,7 @@ Other files that were used for merging and cleaning the data set are as mentione
                * subject_train.txt
 	       * subject_test.txt
                
-
+               
 As per the instructions the codebook for this project can be found in a file named CodeBook.md in this repository.
 
 The R script named run_analysis.R was used to generate the tidy output data 
