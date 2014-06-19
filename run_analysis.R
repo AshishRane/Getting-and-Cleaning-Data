@@ -51,7 +51,7 @@ merged.data.set <- cbind(subject, y, X)
 avg.merged.data.set <- aggregate(merged.data.set[, 3:dim(merged.data.set)[2]],list(merged.data.set$subject,merged.data.set$activity),mean)
 names(avg.merged.data.set)[1:2] <- c('subject', 'activity')
 
-# Write the merged independent tidy data set with averages of each variable for each activity and each subject. 
+# Write the merged independent tidy data set with averages of each variable for each activity and each subject to a csv file.  
 write.csv(avg.merged.data.set, "avg.merged.data.set.csv")
 
 
