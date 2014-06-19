@@ -14,14 +14,14 @@ The names of the data files used to produce the tidy data set are mentioned belo
 	        * UCI HAR Dataset/test/y_test.txt
 	        * UCI HAR Dataset/train/X_train.txt
 	        * UCI HAR Dataset/train/y_train.txt
-                * UCI HAR Dataset/test/X_test.txt
+        * UCI HAR Dataset/test/X_test.txt
         
 Other files that were used for merging and cleaning the data set are as mentioned below:
 
 	       * activity_labels.txt
 	       * features_info.txt
 	       * features.txt
-               * subject_train.txt
+              * subject_train.txt
 	       * subject_test.txt
                
 
