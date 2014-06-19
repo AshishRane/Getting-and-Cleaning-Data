@@ -11,10 +11,10 @@ The data that is used in this project was downloaded from the above mentioned so
 The name of the zip file downleded is getdata-projectfiles-UCI HAR Dataset.zip. 
 The names of the data files used to produce the tidy data set are mentioned below.
 
-                * UCI HAR Dataset/test/X_test.txt
 	        * UCI HAR Dataset/test/y_test.txt
 	        * UCI HAR Dataset/train/X_train.txt
 	        * UCI HAR Dataset/train/y_train.txt
+                * UCI HAR Dataset/test/X_test.txt
         
 Other files that were used for merging and cleaning the data set are as mentioned below:
 
@@ -23,6 +23,7 @@ Other files that were used for merging and cleaning the data set are as mentione
 	       * features.txt
                * subject_train.txt
 	       * subject_test.txt
+               
 
 As per the instructions the codebook for this project can be found in a file named CodeBook.md in this repository.
 
