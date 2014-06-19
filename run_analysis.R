@@ -34,7 +34,7 @@ y <- rbind(y_train, y_test)
 subject <- rbind(Subj_train, Subj_test)
 
 # Extract only the measurements on the mean and standard deviation for each measurement
-# Please note that I have included variables with meanFreq()s as well as it's not clear from the project description whether this need to be excluded
+# Please note that I have not included variables with meanFreq()s as it's not clear from the project description whether these need to be included or not
 
 #X <- X[, grep('mean|std', Features$name)] ### meanFreq() variables included
 X <- X[,grep('mean\\(\\)|std\\(\\)', Features$name)]### meanFreq() variables excluded
