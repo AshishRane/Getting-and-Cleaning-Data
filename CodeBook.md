@@ -23,7 +23,7 @@ There are 68 variables and 180 observations in the tidy data set (avg.merged.dat
 
 Description of all the variables in the tidy data set is given below :
 
-* Subject  - Identifies the subject who performed the activity. Its range is from 1 to 30
+* Subject  - Identifies the subject who performed the activity (Range - 1 to 30)
 * Activity - Name of the activity (Total 6 activities : WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 * tBodyAcc-mean()-X  -   Average of the tBodyAcc Mean X values
 * tBodyAcc-mean()-Y  - Average of the tBodyAcc Mean Y values
