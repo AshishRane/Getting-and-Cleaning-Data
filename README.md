@@ -11,7 +11,7 @@ The data that is used in this project was downloaded from the above mentioned so
 The name of the zip file downleded is getdata-projectfiles-UCI HAR Dataset.zip. 
 The names of the data files used to produce the tidy data set are mentioned below.
 
-	        * UCI HAR Dataset/test/y_test.txt
+	        *__UCI HAR Dataset/test/y_test.txt
 	        * UCI HAR Dataset/train/X_train.txt
 	        * UCI HAR Dataset/train/y_train.txt
                 * UCI HAR Dataset/test/X_test.txt
