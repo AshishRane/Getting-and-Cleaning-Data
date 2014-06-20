@@ -21,7 +21,7 @@ There are 68 variables and 180 observations in the tidy data set (avg.merged.dat
 
 ###Variables Description:
 
-Description of all the variables in the tidy data set is given below :
+Description of all the variables in the tidy data set is given below:
 
 * Subject  - Identifies the subject who performed the activity (Range - 1 to 30)
 * Activity - Name of the activity (Total 6 activities : WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
