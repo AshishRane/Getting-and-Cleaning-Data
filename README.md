@@ -37,14 +37,14 @@ To execute the R file (run_analysis.R) it is assumed that the required data file
 
 ###Step by Step instruction to execute the script & generate tidy data set:
 
-Step 1: Clone this Git repository.
-Step 2: Copy the 'getdata-projectfiles-UCI HAR Dataset.zip' archive into the cloned Git repository on your computer.
-Step 3: Start R (or R Studio) and set the current working directory to the location of the cloned Git repository on your computer.
-Step 4: Open and run the 'run_analysis.R' script in R (or RStudio). This will produce a file named 'avg.merged.data.set.csv' in the working directory.
+* Step 1: Clone this Git repository.
+* Step 2: Copy the 'getdata-projectfiles-UCI HAR Dataset.zip' archive into the cloned Git repository on your computer.
+* Step 3: Start R (or R Studio) and set the current working directory to the location of the cloned Git repository on your computer.
+* Step 4: Open and run the 'run_analysis.R' script in R (or RStudio). This will produce a file named 'avg.merged.data.set.csv' in the working directory.
 
 ### Instructions to view the Tidy Data Set file:
-Step 1: You can read the tidy data set file (created by running the run_analysis.R script above) from your current working directory into R by using read.csv("avg.merged.data.set.csv") function.
-Step 2: Alternativey, tidy data set file 'avg.merged.data.set.csv' has also been uploaded on the Github(https://github.com/AshishRane/Getting-and-Cleaning-Data). Please click on the file name to view the file in tabular format in Github. 
+* Step 1: You can read the tidy data set file (created by running the run_analysis.R script above) from your current working directory into R by using read.csv("avg.merged.data.set.csv") function.
+* Step 2: Alternativey, tidy data set file 'avg.merged.data.set.csv' has also been uploaded on the Github(https://github.com/AshishRane/Getting-and-Cleaning-Data). Please click on the file name to view the file in tabular format in Github. 
 
 For more details on the variables in the tidy data set please refer to CodeBook.md in this repository.
 
