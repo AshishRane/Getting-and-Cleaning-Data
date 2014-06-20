@@ -24,71 +24,71 @@ Description of all the variables in the tidy data set is given in the table belo
 * Subject  - Identifies the subject who performed the activity. Its range is from 1 to 30
 * Activity - Name of the activity (Total 6 activities : WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 * tBodyAcc-mean()-X  -   Average of the tBodyAcc Mean X values
-*tBodyAcc-mean()-Y  - Average of the tBodyAcc Mean Y values
-*tBodyAcc-mean()-Z  - Average of the tBodyAcc Mean Z values
-*tBodyAcc-std()-X  ??? 
-*tBodyAcc-std()-Y  ???
-*tBodyAcc-std()-Z  ???
-*tGravityAcc-mean()-X  ???
-*tGravityAcc-mean()-Y  ???
-*tGravityAcc-mean()-Z  ???
-*tGravityAcc-std()-X  ???
-*tGravityAcc-std()-Y  ??? 
-*tGravityAcc-std()-Z  ???
-*tBodyAccJerk-mean()-X  ???
-*tBodyAccJerk-mean()-Y  ???
-*tBodyAccJerk-mean()-Z  ???
-*tBodyAccJerk-std()-X  ???
-*tBodyAccJerk-std()-Y  ???
-*tBodyAccJerk-std()-Z  ???
-*tBodyGyro-mean()-X  ???
-*tBodyGyro-mean()-Y  ???
-*tBodyGyro-mean()-Z  ???
-*tBodyGyro-std()-X  ???
-*tBodyGyro-std()-Y  ???
-*tBodyGyro-std()-Z  ???
-*tBodyGyroJerk-mean()-X  ???
-*tBodyGyroJerk-mean()-Y  ???
-*tBodyGyroJerk-mean()-Z  ???
-*tBodyGyroJerk-std()-X  ???
-*tBodyGyroJerk-std()-Y  ???
-*tBodyGyroJerk-std()-Z  ???
-*tBodyAccMag-mean()  ???
-*tBodyAccMag-std()  ???
-*tGravityAccMag-mean()  ???
-*tGravityAccMag-std()  ???
-*tBodyAccJerkMag-mean()  ???
-*tBodyAccJerkMag-std()  ???
-*tBodyGyroMag-mean()  ???
-*tBodyGyroMag-std()  ???
-*tBodyGyroJerkMag-mean()???
-*tBodyGyroJerkMag-std()  ???
-*fBodyAcc-mean()-X  ???
-*fBodyAcc-mean()-Y  ???
-*fBodyAcc-mean()-Z  ???
-*fBodyAcc-std()-X  ???
-*fBodyAcc-std()-Y  ???
-*fBodyAcc-std()-Z  ???
-*fBodyAccJerk-mean()-X  ???
-*fBodyAccJerk-mean()-Y  ???
-*fBodyAccJerk-mean()-Z  ???
-*fBodyAccJerk-std()-X  ???
-*fBodyAccJerk-std()-Y  ???
-*fBodyAccJerk-std()-Z  ???
-*fBodyGyro-mean()-X  ???
-*fBodyGyro-mean()-Y  ???
-*fBodyGyro-mean()-Z  ???
-*fBodyGyro-std()-X  ???
-*fBodyGyro-std()-Y  ???
-*fBodyGyro-std()-Z  ???
-*fBodyAccMag-mean()  ???
-*fBodyAccMag-std()  ???
-*fBodyBodyAccJerkMag-mean()  ???
-*fBodyBodyAccJerkMag-std()  ???
-*fBodyBodyGyroMag-mean()  ???
-*fBodyBodyGyroMag-std()  ???
-*fBodyBodyGyroJerkMag-mean()  ???
-*fBodyBodyGyroJerkMag-std()  ???
+* tBodyAcc-mean()-Y  - Average of the tBodyAcc Mean Y values
+* tBodyAcc-mean()-Z  - Average of the tBodyAcc Mean Z values
+* tBodyAcc-std()-X  - Average of the tBodyAcc Standard Deviation X values
+* tBodyAcc-std()-Y  - Average of the tBodyAcc Standard Deviation Y values
+* tBodyAcc-std()-Z  - Average of the tBodyAcc Standard Deviation Z values
+* tGravityAcc-mean()-X - Average of the tGravityAcc Mean X values
+* tGravityAcc-mean()-Y - Average of the tGravityAcc Mean Y values 
+* tGravityAcc-mean()-Z - Average of the tGravityAcc Mean Z values
+* tGravityAcc-std()-X  - Average of the tGravityAcc Standard Deviation X values
+* tGravityAcc-std()-Y  - Average of the tGravityAcc Standard Deviation Y values
+* tGravityAcc-std()-Z  - Average of the tGravityAcc Standard Deviation Z values
+* tBodyAccJerk-mean()-X  - Average of the tBodyAccJerk Mean X values
+* tBodyAccJerk-mean()-Y  - Average of the tBodyAccJerk Mean Y values
+* tBodyAccJerk-mean()-Z  - Average of the tBodyAccJerk Mean Z values
+* tBodyAccJerk-std()-X  - Average of the tBodyAccJerk Standard Deviation X values
+* tBodyAccJerk-std()-Y  - Average of the tBodyAccJerk Standard Deviation Y values
+* tBodyAccJerk-std()-Z  - Average of the tBodyAccJerk Standard Deviation Z values
+* tBodyGyro-mean()-X  - Average of the tBodyGyro Mean X values
+* tBodyGyro-mean()-Y  - Average of the tBodyGyro Mean Y values
+* tBodyGyro-mean()-Z  - Average of the tBodyGyro Mean Z values
+* tBodyGyro-std()-X  - Average of the tBodyGyro Standard Deviation X values
+* tBodyGyro-std()-Y  - Average of the tBodyGyro Standard Deviation Y values
+* tBodyGyro-std()-Z  - Average of the tBodyGyro Standard Deviation Z values
+* tBodyGyroJerk-mean()-X - Average of the tBodyGyroJerk Mean X values 
+* tBodyGyroJerk-mean()-Y - Average of the tBodyGyroJerk Mean Y values
+* tBodyGyroJerk-mean()-Z - Average of the tBodyGyroJerk Mean Z values
+* tBodyGyroJerk-std()-X  - Average of the tBodyGyroJerk Standard Deviation X values
+* tBodyGyroJerk-std()-Y  - Average of the tBodyGyroJerk Standard Deviation Y values
+* tBodyGyroJerk-std()-Z  - Average of the tBodyGyroJerk Standard Deviation Z values
+* tBodyAccMag-mean() - Average of the tBodyAccMag Mean values
+* tBodyAccMag-std()  - Average of the tBodyAccMag Standard Deviation values
+* tGravityAccMag-mean()  - Average of the tGravityAccMag Mean values
+* tGravityAccMag-std()  - Average of the tGravityAccMag Standard Deviation values
+* tBodyAccJerkMag-mean()  - Average of the tBodyAccJerkMag Mean values
+* tBodyAccJerkMag-std()  - Average of the tBodyAccJerkMag Standard Deviation values
+* tBodyGyroMag-mean()  - Average of  the tBodyGyroMag Mean values
+* tBodyGyroMag-std()  - Average of the tBodyGyroMag Standard Deviation values
+* tBodyGyroJerkMag-mean() - Average of the tBodyGyroJerkMag Mean values
+* tBodyGyroJerkMag-std() - Average of the tBodyGyroJerkMag Standard Deviation values
+* fBodyAcc-mean()-X - Average of the fBodyAcc Mean X values
+* fBodyAcc-mean()-Y - Average of the fBodyAcc Mean Y values
+* fBodyAcc-mean()-Z - Average of the fBodyAcc Mean Z values
+* fBodyAcc-std()-X - Average of the fBodyAcc Standard Deviation X values
+* fBodyAcc-std()-Y - Average of the fBodyAcc Standard Deviation Y values
+* fBodyAcc-std()-Z - Average of the fBodyAcc Standard Deviation Z values
+* fBodyAccJerk-mean()-X - Average of the fBodyAccJerk Mean X values
+* fBodyAccJerk-mean()-Y - Average of the fBodyAccJerk Mean Y values
+* fBodyAccJerk-mean()-Z - Average of the fBodyAccJerk Mean Z values
+* fBodyAccJerk-std()-X - Average of the fBodyAccJerk Standard Deviation X values
+* fBodyAccJerk-std()-Y - Average of the fBodyAccJerk Standard Deviation Y values
+* fBodyAccJerk-std()-Z - Average of the fBodyAccJerk Standard Deviation Z values
+* fBodyGyro-mean()-X - Average of the fBodyGyro Mean X values
+* fBodyGyro-mean()-Y - Average of the fBodyGyro Mean Y values
+* fBodyGyro-mean()-Z - Average of the fBodyGyro Mean Z values
+* fBodyGyro-std()-X - Average of the fBodyGyro Standard Deviation X values
+* fBodyGyro-std()-Y - Average of the fBodyGyro Standard Deviation Y values
+* fBodyGyro-std()-Z - Average of the fBodyGyro Standard Deviation Z values
+* fBodyAccMag-mean() - Average of the fBodyAccMag Mean values
+* fBodyAccMag-std() - Average of the fBodyAccMag Standard Deviation values
+* fBodyBodyAccJerkMag-mean() - Average of the fBodyBodyAccJerkMag Mean values
+* fBodyBodyAccJerkMag-std() - Average of the fBodyBodyAccJerkMag Standard Deviation values
+* fBodyBodyGyroMag-mean() - Average of the fBodyBodyGyroMag Mean values
+* fBodyBodyGyroMag-std() - Average of the fBodyBodyGyroMag Standard Deviation values
+* fBodyBodyGyroJerkMag-mean() - Average of the fBodyBodyGyroJerkMag Mean values
+* fBodyBodyGyroJerkMag-std() - Average of the fBodyBodyGyroJerkMag Standard Deviation values
 
 
 
