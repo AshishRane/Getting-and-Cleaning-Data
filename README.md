@@ -40,7 +40,9 @@ To execute the R file (run_analysis.R) it is assumed that the required data file
 Step 1: Clone this Git repository.
 Step 2: Copy the 'getdata-projectfiles-UCI HAR Dataset.zip' archive into the cloned Git repository on your computer.
 Step 3: Start R (or R Studio) and set the current working directory to the location of the cloned Git repository on your computer.
-Step 4: Open and run the 'run_analysis.R' script in R (or RStudio). This will produce a file named 'avg.merged.data.set.txt' in the working directory.
+Step 4: Open and run the 'run_analysis.R' script in R (or RStudio). This will produce a file named 'avg.merged.data.set.csv' in the working directory.
+Step 5: You can read teh file from your current working directory into R by using function read.csv("avg.merged.data.set.csv")
+Step 6: 'avg.merged.data.set.csv' file has also been uploaded on the Github as well. Please click on the file name to view the file in tabular format in Github. 
 
 For more details on the variables in the tidy data set please refer to CodeBook.md in this repository.
 
