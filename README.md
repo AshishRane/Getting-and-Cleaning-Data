@@ -2,7 +2,7 @@
 
 ###READ ME
 
-This repository contains R code and the related documentation required for the Coursera Data Science / Getting and Cleaning Data course project.
+This repository contains R code and the related documentation required for the Coursera Data Science/Getting and Cleaning Data course project.
 The raw data can be obtained from the following URL:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
