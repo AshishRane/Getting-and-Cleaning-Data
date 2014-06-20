@@ -44,7 +44,7 @@ To execute the R file (run_analysis.R) it is assumed that the required data file
 
 ### Instructions to view the Tidy Data Set file:
 * Step 1: You can read the tidy data set file (created by running the run_analysis.R script above) from your current working directory into R by using read.csv("avg.merged.data.set.csv") function.
-* Step 2: Alternativey, tidy data set file 'avg.merged.data.set.csv' has also been uploaded on the Github(https://github.com/AshishRane/Getting-and-Cleaning-Data). Please click on the file name to view the file in tabular format in Github. 
+* Step 2: Alternativey, tidy data set file 'avg.merged.data.set.csv' has also been uploaded on Github (https://github.com/AshishRane/Getting-and-Cleaning-Data). Please click on the file name to view the file in tabular format in Github. 
 
 For more details on the variables in the tidy data set please refer to CodeBook.md in this repository.
 
