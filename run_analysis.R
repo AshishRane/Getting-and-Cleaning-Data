@@ -1,4 +1,4 @@
-## Read Data into R
+#Read Data into R
 
 # Read Activity labels
 Activity_labels<- read.table("activity_labels.txt", sep='', header = FALSE)
