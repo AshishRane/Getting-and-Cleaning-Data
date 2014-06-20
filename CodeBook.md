@@ -19,7 +19,9 @@ These signals were used to estimate variables of the feature vector for each pat
 
 There are 68 variables and 180 observations in the tidy data set (avg.merged.data.set.csv). There are total 30 subjects and 6 activities. Average of each variable for each activity and each subject is provided in the tidy data set. Top row is header. 
 
-Description of all the variables in the tidy data set is given in the table below.
+###Variables Description
+
+Description of all the variables in the tidy data set is given below :
 
 * Subject  - Identifies the subject who performed the activity. Its range is from 1 to 30
 * Activity - Name of the activity (Total 6 activities : WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
